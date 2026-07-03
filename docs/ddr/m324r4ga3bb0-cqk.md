@@ -3,6 +3,7 @@
 This page provides the comprehensive technical specifications and reference datasheet for the **SMC M324R4GA3BB0-CQK memory module**. This high-performance, JEDEC-standard DDR5 SDRAM Unbuffered DIMM is designed for enterprise workstations, server memory upgrades, and high-reliability computing systems.
 
 ## 📌 Technical Inquiry & Reference
+* 👉 [Download SMC M324R4GA3BB0-CQK DDR5-4800 PDF Datasheet](m324r4ga3bb0-cqk-datasheet.pdf)
 
 * **For official hardware support, configuration guides, or bulk inquiries, please refer to our reference page:**  
   👉 [SMC M324R4GA3BB0-CQK DDR5 Reference Page](https://www.sourcememorychips.com/products/m324r4ga3bb0-cqk)
