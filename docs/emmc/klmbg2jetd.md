@@ -5,10 +5,10 @@ This page provides the comprehensive technical specifications and datasheet for 
 ## 📌 Purchasing & Related Models
 * 👉 [Download SMC KLMBG2JETD eMMC 5.1 PDF Datasheet](KLMBG2JETD-Datasheet.pdf)
 
-Looking for high-capacity alternatives or ready to purchase? 
+For official technical specifications and hardware support:
 
-* **To buy or request a quote for this series, please visit the official product page:**  
-  👉 [SMC KLMBG2JETD-B041 eMMC Product Page](https://www.sourcememorychips.com/products/klmbg2jetd-b041)
+* **For inquiry details or design-in support, please refer to the product page:**  
+  👉 [SMC KLMBG2JETD-B041 Reference Page](https://www.sourcememorychips.com/products/klmbg2jetd-b041)
 * **Direct link for RFQ / Specifications**: [https://www.sourcememorychips.com/products/klmbg2jetd-b041](https://www.sourcememorychips.com/products/klmbg2jetd-b041)
 
 ---
