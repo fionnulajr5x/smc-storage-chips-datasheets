@@ -6,7 +6,7 @@ Welcome to the official technical documentation and support site of **SMC (Sourc
 
 ### 1. eMMC Solutions (embedded MultiMediaCard)
 We offer high-performance eMMC storage chips for industrial control, automotive infotainment, and smart IoT devices.
-* 👉 [View SMC KLMAG2JETD eMMC Datasheet](emmc/klmag2jetd.md)
+* 👉 [View SMC KLMBG2JETD eMMC Datasheet](emmc/klmbg2jetd.md)
 * 👉 [Buy SMC KLMBG2JETD-B041 eMMC](https://www.sourcememorychips.com/products/klmbg2jetd-b041)
 
 ### 2. DDR Memory Solutions (Coming Soon)
