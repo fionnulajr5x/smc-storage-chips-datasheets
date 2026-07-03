@@ -1,0 +1,11 @@
+site_name: SMC (Source Memory Chips) | Technical Documentation & Datasheets
+theme:
+  name: readthedocs
+nav:
+  - Home: index.md
+  - eMMC Solutions:
+    - SMC KLMAG2JETD Datasheet: emmc/klmag2jetd.md
+  - DDR Solutions:
+    - Coming Soon: ddr/readme.md
+  - LPDDR Solutions:
+    - Coming Soon: lpddr/readme.md
