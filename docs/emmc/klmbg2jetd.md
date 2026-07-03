@@ -1,6 +1,6 @@
-# SMC KLMAG2JETD eMMC 5.1 Datasheet & Technical Specifications
+# SMC KLMBG2JETD eMMC 5.1 Datasheet & Technical Specifications
 
-This page provides the comprehensive technical specifications and datasheet for the **SMC KLMAG2JETD eMMC 5.1 storage chip**. This high-performance, embedded memory solution is widely used in automotive infotainment, smart industrial controllers, and consumer electronics.
+This page provides the comprehensive technical specifications and datasheet for the **SMC KLMBG2JETD eMMC 5.1 storage chip**. This high-performance, embedded memory solution is widely used in automotive infotainment, smart industrial controllers, and consumer electronics.
 
 ## 📌 Purchasing & Related Models
 
@@ -14,9 +14,9 @@ Looking for high-capacity alternatives or ready to purchase?
 
 ## 1. Product Overview
 * **Brand**: SMC (Source Memory Chips)
-* **Part Number**: KLMAG2JETD
+* **Part Number**: KLMBG2JETD
 * **Interface**: eMMC 5.1
-* **Capacity**: 16 GB (For 32GB equivalent, see the [KLMBG2JETD-B041](https://www.sourcememorychips.com/products/klmbg2jetd-b041) model)
+* **Capacity**: 32 GB
 * **Package**: FBGA
 
 ## 2. Key Features
