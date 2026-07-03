@@ -6,6 +6,9 @@ nav:
   - eMMC Solutions:
     - SMC KLMBG2JETD Datasheet: emmc/klmbg2jetd.md
   - DDR Solutions:
-    - SMC M324R4GA3BB0-CQK Datasheet: ddr/m324r4ga3bb0-cqk.md
+    - DDR4 Memory:
+      - Nanya NT5AD512M16C4-JR Datasheet: ddr/ddr4/nt5ad512m16c4-jr.md
+    - DDR5 Memory:
+      - SMC M324R4GA3BB0-CQK Datasheet: ddr/ddr5/m324r4ga3bb0-cqk.md
   - LPDDR Solutions:
     - Coming Soon: lpddr/readme.md
