@@ -4,7 +4,7 @@ theme:
 nav:
   - Home: index.md
   - eMMC Solutions:
-    - SMC KLMAG2JETD Datasheet: emmc/klmag2jetd.md
+    - SMC KLMBG2JETD Datasheet: emmc/klmbg2jetd.md
   - DDR Solutions:
     - Coming Soon: ddr/readme.md
   - LPDDR Solutions:
