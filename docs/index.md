@@ -9,8 +9,10 @@ We offer high-performance eMMC storage chips for industrial control, automotive 
 * 👉 [View SMC KLMBG2JETD eMMC Datasheet](emmc/klmbg2jetd.md)
 * 👉 [SMC KLMBG2JETD-B041 Product Reference](https://www.sourcememorychips.com/products/klmbg2jetd-b041)
 
-### 2. DDR Memory Solutions (Coming Soon)
-Standard DDR memory chips designed for high-speed data processing and system stability. 
+### 2. DDR Memory Solutions
+Standard JEDEC-compliant DDR memory modules designed for high-speed data processing and workstation stability.
+* 👉 [View SMC M324R4GA3BB0-CQK DDR5 Datasheet](ddr/m324r4ga3bb0-cqk.md)
+* 👉 [SMC M324R4GA3BB0-CQK Reference Page](https://www.sourcememorychips.com/products/m324r4ga3bb0-cqk)
 
 ### 3. LPDDR Memory Solutions (Coming Soon)
 Low-power LPDDR memory chips optimized for mobile devices, smart sensors, and portable electronics.
