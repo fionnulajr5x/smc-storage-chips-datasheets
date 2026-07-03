@@ -3,7 +3,7 @@
 This page provides the comprehensive technical specifications and datasheet for the **SMC KLMBG2JETD eMMC 5.1 storage chip**. This high-performance, embedded memory solution is widely used in automotive infotainment, smart industrial controllers, and consumer electronics.
 
 ## 📌 Purchasing & Related Models
-* 👉 [Download SMC KLMBG2JETD eMMC 5.1 PDF Datasheet](klmbg2jetd-Datasheet.pdf)
+* 👉 [Download SMC KLMBG2JETD eMMC 5.1 PDF Datasheet](klmbg2jetd-datasheet.pdf)
 
 For official technical specifications and hardware support:
 
