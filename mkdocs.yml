@@ -5,6 +5,8 @@ nav:
   - Home: index.md
   - eMMC Solutions:
     - SMC KLMBG2JETD Datasheet: emmc/klmbg2jetd.md
+  - eMCP Solutions:
+    - SK hynix H9TQ26ADFTAC Datasheet: emcp/h9tq26adftac.md
   - DDR Solutions:
     - DDR4 Memory:
       - Nanya NT5AD512M16C4-JR Datasheet: ddr/ddr4/nt5ad512m16c4-jr.md
