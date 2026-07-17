@@ -20,8 +20,12 @@ Standard JEDEC-compliant DDR memory modules and chips designed for high-speed da
 * 👉 [View SMC M324R4GA3BB0-CQK DDR5 Datasheet](ddr/ddr5/m324r4ga3bb0-cqk.md)
 * 👉 [SMC M324R4GA3BB0-CQK Reference Page](https://www.sourcememorychips.com/products/m324r4ga3bb0-cqk)
 
-### 3. LPDDR Memory Solutions (Coming Soon)
-Low-power LPDDR memory chips optimized for mobile devices, smart sensors, and portable electronics.
+### 3. eMCP Solutions (embedded Multi-Chip Package)
+Highly integrated memory solutions combining eMMC NAND Flash and LPDDR DRAM in a single compact package, ideal for space-constrained mobile and embedded systems.
+* 👉 [View SK hynix H9TQ26ADFTAC eMCP Datasheet](emcp/h9tq26adftac.md)
+* 👉 [SMC H9TQ26ADFTAC Reference Page](https://www.sourcememorychips.com/products/hqtq26adftac)
+
+### 4. LPDDR Memory Solutions (Coming Soon)
 
 ---
 
