@@ -24,6 +24,8 @@ Standard JEDEC-compliant DDR memory modules and chips designed for high-speed da
 Highly integrated memory solutions combining eMMC NAND Flash and LPDDR DRAM in a single compact package, ideal for space-constrained mobile and embedded systems.
 * 👉 [View SK hynix H9TQ26ADFTAC eMCP Datasheet](emcp/h9tq26adftac.md)
 * 👉 [SMC H9TQ26ADFTAC Reference Page](https://www.sourcememorychips.com/products/hqtq26adftac)
+* 👉 [View SK hynix H9TP65A8JDAC eMCP Datasheet](emcp/h9tp65a8jdac.md)
+* 👉 [SMC H9TP65A8JDAC Reference Page](https://www.sourcememorychips.com/products/h9tp65a8jdac)
 
 ### 4. LPDDR Memory Solutions (Coming Soon)
 
