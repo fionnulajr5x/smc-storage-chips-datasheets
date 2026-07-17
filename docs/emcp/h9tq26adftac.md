@@ -34,3 +34,25 @@ H9TQ26ADFTAC eMCP
 └── LPDDR3 DRAM (System Memory)
      ↓
 Host Processor / Embedded System
+```
+
+## 3. Product Advantages
+* **Compact Memory Integration**: Combined storage and system memory in one tiny package.
+* **Reduced PCB Footprint**: Maximizes board space efficiency.
+* **Simplified Hardware Design**: Streamlines circuitry design for faster time-to-market.
+* **High Reliability**: Designed for stable operation in embedded systems.
+* **Long Lifecycle Support**: Ideal for industrial and long-life electronic applications.
+
+## 4. Technical Specifications
+* **NAND Technology**: eMMC NAND Flash
+* **DRAM Technology**: LPDDR3 SDRAM
+* **NAND Density**: TBD
+* **DRAM Density**: TBD
+* **Interface**: TBD
+* **Operating Voltage**: TBD
+* **Package**: FBGA
+* **Operating Temperature**: TBD
+
+---
+*Disclaimer: Technical specifications are based on standard SK hynix product information. For latest factory errata, active part statuses, or official price sheets, please consult [Source Memory Chips](https://www.sourcememorychips.com/).*
+```
