@@ -35,30 +35,38 @@ HQHP27ADAMAD eMCP
 └── 24Gb LPDDR4X SDRAM (x16, 2 channels / 2 chip selects)
      ↓
 Host Processor / Embedded System
-3. General Specifications
-eMMC 5.1 Specifications
-eMMC Standard: JEDEC eMMC 5.1 (backward compatible with eMMC 4.5 and 5.0)
-Bus Width: 1-bit default, 4-bit, and 8-bit modes
-High-Speed Modes: HS400 and HS200
-Sequential Performance: Up to 280 MB/s Read, 90 MB/s Write
-LPDDR4X Specifications
-Organization: x16, 2 channels / 2 chip selects
-Data Rate: Up to 3733 Mbps (LPDDR4X data rate)
-Operating Voltages (Standard Rails)
-eMMC VCC: 2.70 V - 3.60 V
-eMMC VCCQ: 1.70 V - 1.95 V
-LPDDR4X VDD1: 1.70 V - 1.95 V
-LPDDR4X VDD2: 1.06 V - 1.17 V
-LPDDR4X VDDQ: 0.57 V - 0.65 V
-4. Product Advantages
-High Integration: 32GB eMMC 5.1 + 24Gb LPDDR4X combined in a single package.
-Reduced Footprint: 254-ball FBGA package minimizes component count and saves board space.
-High Speed: Utilizes HS400 storage interface and LPDDR4X up to 3733 Mbps.
-Embedded Ready: Highly optimized for space-constrained mobile, IoT, networking, and industrial embedded systems.
-5. Mechanical Information
-Package Type: 254-ball FBGA
-Body Size: 11.5 mm × 13.0 mm
-Maximum Thickness: 1.0 mm
-Ball Pitch: 0.5 mm
-Package Material: Lead-free and halogen-free / RoHS compliant
-Disclaimer: Technical specifications are based on standard SK hynix product information. For active part statuses, official factory errata, or volume quotes, please consult Source Memory Chips.
+```
+## 3. General Specifications
+
+### eMMC 5.1 Specifications
+* **eMMC Standard**: JEDEC eMMC 5.1 (backward compatible with eMMC 4.5 and 5.0)
+* **Bus Width**: 1-bit default, 4-bit, and 8-bit modes
+* **High-Speed Modes**: HS400 and HS200
+* **Sequential Performance**: Up to 280 MB/s Read, 90 MB/s Write
+
+### LPDDR4X Specifications
+* **Organization**: x16, 2 channels / 2 chip selects
+* **Data Rate**: Up to 3733 Mbps (LPDDR4X data rate)
+
+### Operating Voltages (Standard Rails)
+* **eMMC VCC**: 2.70 V - 3.60 V
+* **eMMC VCCQ**: 1.70 V - 1.95 V
+* **LPDDR4X VDD1**: 1.70 V - 1.95 V
+* **LPDDR4X VDD2**: 1.06 V - 1.17 V
+* **LPDDR4X VDDQ**: 0.57 V - 0.65 V
+
+## 4. Product Advantages
+* **High Integration**: 32GB eMMC 5.1 + 24Gb LPDDR4X combined in a single package.
+* **Reduced Footprint**: 254-ball FBGA package minimizes component count and saves board space.
+* **High Speed**: Utilizes HS400 storage interface and LPDDR4X up to 3733 Mbps.
+* **Embedded Ready**: Highly optimized for space-constrained mobile, IoT, networking, and industrial embedded systems.
+
+## 5. Mechanical Information
+* **Package Type**: 254-ball FBGA
+* **Body Size**: 11.5 mm × 13.0 mm
+* **Maximum Thickness**: 1.0 mm
+* **Ball Pitch**: 0.5 mm
+* **Package Material**: Lead-free and halogen-free / RoHS compliant
+
+---
+*Disclaimer: Technical specifications are based on standard SK hynix product information. For active part statuses, official factory errata, or volume quotes, please consult [Source Memory Chips](https://www.sourcememorychips.com/).*
