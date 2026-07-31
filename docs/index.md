@@ -31,6 +31,10 @@ Highly integrated memory solutions combining eMMC NAND Flash and LPDDR DRAM in a
 
 ### 4. LPDDR Memory Solutions (Coming Soon)
 
+### 5. CXMT RAM Solutions
+High-density mobile and embedded LPDDR4X SDRAM solutions manufactured by ChangXin Memory Technologies (CXMT).
+* 👉 [View CXMT CXDB6CCDM LPDDR4X Datasheet](cxmt-ram/cxdb6ccdm.md)
+* 👉 [SMC CXDB6CCDM-MA-M Reference Page](https://www.sourcememorychips.com/products/cxdb6ccdm-ma-m)
 ---
 
 ## Quick Links
