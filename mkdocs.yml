@@ -16,3 +16,5 @@ nav:
       - SMC M324R4GA3BB0-CQK Datasheet: ddr/ddr5/m324r4ga3bb0-cqk.md
   - LPDDR Solutions:
     - Coming Soon: lpddr/readme.md
+  - CXMT RAM:                                           
+    - CXMT CXDB6CCDM Datasheet: cxmt-ram/cxdb6ccdm.md
