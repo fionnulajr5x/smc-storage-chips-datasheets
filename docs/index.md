@@ -28,6 +28,8 @@ Highly integrated memory solutions combining eMMC NAND Flash and LPDDR DRAM in a
 * 👉 [SMC H9TP65A8JDAC Reference Page](https://www.sourcememorychips.com/products/h9tp65a8jdac)
 * 👉 [View SK hynix HQHP27ADAMAD eMCP Datasheet](emcp/hqhp27adamad.md)
 * 👉 [SMC HQHP27ADAMAD Reference Page](https://www.sourcememorychips.com/products/hqhp27adamad)
+* 👉 [View SK hynix HQHP52AECMMD eMCP Datasheet](emcp/hqhp52aecmmd.md)
+* 👉 [SMC HQHP52AECMMD Reference Page](https://www.sourcememorychips.com/products/hqhp52aecmmd)
 
 ### 4. LPDDR Memory Solutions (Coming Soon)
 
