@@ -41,7 +41,7 @@ H9HP52ACPMAD eMCP
 └── 32Gb LPDDR4X (4GB, x16, 2CH / 2CS)
      ├── Channel A / CS0 (8Gb x16)  │  ├── Channel A / CS1 (8Gb x16)
      └── Channel B / CS0 (8Gb x16)  │  └── Channel B / CS1 (8Gb x16)
-     ```
+```
 
 ## 3. Product Advantages
 * **Compact Integration**: Compact 64GB storage and 32Gb LPDDR4X integration in one package.
